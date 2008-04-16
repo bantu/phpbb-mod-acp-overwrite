@@ -252,6 +252,7 @@ class acp_overwrite
 	/**
 	* Update User Table
 	* @access private
+	* @return void
 	*/
 	function update_user_table($key, $value)
 	{

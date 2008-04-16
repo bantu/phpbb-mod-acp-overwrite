@@ -20,7 +20,7 @@
       </author>
     </author-group>
 
-    <mod-version stage="beta">
+    <mod-version stage="release-candidate">
       <major>1</major>
       <minor>0</minor>
       <revision>1</revision>
@@ -35,6 +35,21 @@
         <target-minor allow="exact">0</target-minor>
       </target-version>
     </installation>
+
+    <history>
+      <entry>
+        <date>2008-04-15</date>
+        <rev-version stage="beta">
+          <major>1</major>
+          <minor>0</minor>
+          <revision>1</revision>
+        </rev-version>
+        <changelog lang="en-GB">
+          <change><![CDATA[Added german installation file de.xml]]></change>
+        </changelog>
+
+      </entry>
+    </history>
 
   </header>
 
