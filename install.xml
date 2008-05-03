@@ -20,10 +20,10 @@
       </author>
     </author-group>
 
-    <mod-version stage="release-candidate">
+    <mod-version>
       <major>1</major>
       <minor>0</minor>
-      <revision>1</revision>
+      <revision>0</revision>
     </mod-version>
 
     <installation>
@@ -37,6 +37,19 @@
     </installation>
 
     <history>
+
+      <entry>
+        <date>2008-04-18</date>
+        <rev-version stage="release-candidate">
+          <major>1</major>
+          <minor>0</minor>
+          <revision>1</revision>
+        </rev-version>
+        <changelog lang="en-GB">
+          <change><![CDATA[Added german installation file de.xml.]]></change>
+        </changelog>
+      </entry>
+
       <entry>
         <date>2008-04-15</date>
         <rev-version stage="beta">
@@ -45,10 +58,10 @@
           <revision>1</revision>
         </rev-version>
         <changelog lang="en-GB">
-          <change><![CDATA[Added german installation file de.xml]]></change>
+          <change><![CDATA[First public release.]]></change>
         </changelog>
-
       </entry>
+
     </history>
 
   </header>

@@ -9,7 +9,7 @@
     <license>GNU General Public License v2</license>
     <title lang="en-gb">ACP Overwrite Module - German [Deutsch - Du]</title>
     <description lang="en-gb">German language file(s) for “ACP Overwrite Module”.</description>
-    <author-notes lang="en-gb">You'd have to do the “install.xml” instructions aswell.</author-notes>
+    <author-notes lang="en-gb">Apply “install.xml” instructions first.</author-notes>
 
     <author-group>
       <author>
@@ -20,10 +20,10 @@
       </author>
     </author-group>
 
-    <mod-version stage="release-candidate">
+    <mod-version>
       <major>1</major>
       <minor>0</minor>
-      <revision>1</revision>
+      <revision>0</revision>
     </mod-version>
 
     <installation>
