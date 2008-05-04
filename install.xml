@@ -24,6 +24,7 @@
       <major>1</major>
       <minor>0</minor>
       <revision>0</revision>
+      <release>a</release>
     </mod-version>
 
     <installation>
@@ -37,6 +38,18 @@
     </installation>
 
     <history>
+
+      <entry>
+        <date>2008-05-03</date>
+        <rev-version>
+          <major>1</major>
+          <minor>0</minor>
+          <revision>0</revision>
+        </rev-version>
+        <changelog lang="en-GB">
+          <change><![CDATA[Correctly apply requirements regarding languages directory.]]></change>
+        </changelog>
+      </entry>
 
       <entry>
         <date>2008-04-18</date>
