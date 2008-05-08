@@ -41,7 +41,7 @@
   <action-group>
 
     <copy>
-      <file from="languages/de/language/de/mods/info_acp_overwrite.php" to="language/de/mods/info_acp_overwrite.php" />
+      <file from="languages/root/language/de/mods/info_acp_overwrite.php" to="language/de/mods/info_acp_overwrite.php" />
     </copy>
 
   </action-group>
