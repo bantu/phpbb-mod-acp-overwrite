@@ -24,7 +24,7 @@
       <major>1</major>
       <minor>0</minor>
       <revision>0</revision>
-      <release>a</release>
+      <release>b</release>
     </mod-version>
 
     <installation>
@@ -38,6 +38,19 @@
     </installation>
 
     <history>
+
+      <entry>
+        <date>2008-05-04</date>
+        <rev-version>
+          <major>1</major>
+          <minor>0</minor>
+          <revision>0</revision>
+          <release>a</release>
+        </rev-version>
+        <changelog lang="en-GB">
+          <change><![CDATA[Also reflect changes in language instructions.]]></change>
+        </changelog>
+      </entry>
 
       <entry>
         <date>2008-05-03</date>
